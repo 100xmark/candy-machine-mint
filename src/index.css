@@ -15,11 +15,6 @@ code {
 }
 
 .mint-container {
-  border-style: solid;
-  border-width: 6px;
-  border-color: rgb(36, 6, 207);
-  border-radius: 30px;
-  width: 250px;
   text-align: center;
   margin: auto;
   padding-top: 1%;
